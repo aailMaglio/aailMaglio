@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @aailMaglio
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Kali
-- 📫 How to reach me: lorenzo.maglio041@gmail.com
+.
